@@ -1,6 +1,7 @@
 
 **Última atualização:** Janeiro 2026
-Plotica de privacidade: https://github.com/VanessaVitor/fomedq/blob/main/politica_de_privacidade_fomedq.md
+
+>  Política de privacidade: https://github.com/VanessaVitor/fomedq/blob/main/politica_de_privacidade_fomedq.md
 ---
 
 ## 1. Título do App 
